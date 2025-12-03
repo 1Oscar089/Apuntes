@@ -1,6 +1,6 @@
 let menu = [
-    {nombre: "Inicio", link: "../index.html"},
-    {nombre: "Linux consola", link: "../pages/linux_consola.html"},
+    {nombre: "Inicio", link: "index.html"},
+    {nombre: "Linux consola", link: "linux_consola.html"},
 ];
 let nav = document.getElementById("nav");
 const ul = document.createElement("ul");
