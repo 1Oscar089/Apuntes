@@ -12,5 +12,5 @@ menu.forEach(item => {
     });
     ul.appendChild(li);
 });
-nav.textContent = "&#8801;"
+nav.textContent = "&equiv;"
 nav.appendChild(ul);
