@@ -12,7 +12,4 @@ menu.forEach(item => {
     });
     ul.appendChild(li);
 });
-const span = document.createElement("span");
-span.innerHTML = "&#9776;";
-nav.appendChild(span);
 nav.appendChild(ul);
